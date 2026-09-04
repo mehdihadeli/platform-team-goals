@@ -41,7 +41,7 @@
 - Provide cost optimization through the platform – enforce cost-efficient defaults (auto-scaling, resource limits) and track cost savings as a key metric
 
 ## Team Composition & Culture
-- Have engineers with both development and systems experience – ideal platform engineers have strong programming skills plus operational experience (OS, networking, distributed systems, monitoring)
+- Have engineers with both development and DevOps experience – ideal platform engineers have strong programming skills plus operational experience (DevOps, OS, networking, distributed systems, monitoring)
 - Have a stable, dedicated team – the platform team should be a permanent, ongoing team, not a temporary group that disbands after building something
 - Blend three skill sets on the team – software engineering (to build abstractions), system skills (to operate reliably), and product/customer empathy (to focus on user needs)
 - Avoid being a ticket-taker or bureaucratic bottleneck – don't become a process-heavy team that says "no"; be an enabler that solves problems for developers
