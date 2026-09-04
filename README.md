@@ -65,6 +65,3 @@
 
 ## Measurement
 - Measure migration pain reduction – track how much effort the platform saves teams during upgrades and migrations
-
-## اندازه‌گیری
-- اندازه‌گیری کاهش درد مهاجرت – پیگیری میزان تلاشی که پلتفرم در طول ارتقاءها و مهاجرت‌ها برای تیم‌ها صرفه‌جویی می‌کند
